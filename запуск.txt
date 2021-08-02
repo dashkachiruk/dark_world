@@ -1,0 +1,4 @@
+запуск
+npm install
+npm run dev - дев скрипт
+npm run build - билд
